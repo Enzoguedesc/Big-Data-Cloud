@@ -14,7 +14,7 @@ Este projeto foi desenvolvido para a disciplina de **Big Data e Computação em 
   * **Curso:** Ciência de Dados e Inteligência Artificial (5º Período) - Ibmec Barra
   * **Nome:** Gabriel Couto
   * **Nome:** Enzo Guedes Cardoso
-  * **Nome:** bernardo ottan procopio
+  * **Nome:** Bernardo ottan procopio
   * **Nome:** Daniel de Jesus Teixeira
 
 -----
