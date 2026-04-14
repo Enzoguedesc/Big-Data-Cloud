@@ -77,7 +77,7 @@ Conforme os critérios da AP1, as etapas realizadas foram:
 
 1.  **Clone o projeto:**
     ```bash
-    git clone [https://github.com/BeCouto/AP1_BigData.git]
+    git clone https://github.com/Enzoguedesc/Big-Data-Cloud.git
     ```
 2.  **Crie o ambiente virtual:**
     ```bash
